@@ -6,7 +6,7 @@ function Header() {
     <div className="shadow-sm sticky top-0 bg-white z-50">
       <div className="flex justify-between p-3">
         <a className="logo font-bold text-lg">
-          Fin<span className="text-primary">tekkk</span>
+          Fin<span className="text-primary">tekk</span>
         </a>
         <div className={`space-x-11 hidden md:flex text-sm`}>
           <ul className="flex space-x-2">
